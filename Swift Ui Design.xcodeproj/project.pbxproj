@@ -66,7 +66,6 @@
 		9F1251E428CBA72900719DA2 /* VerificationSuccessfulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerificationSuccessfulView.swift; sourceTree = "<group>"; };
 		9F1251E628CBA73A00719DA2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		9F1251E928CBAA5200719DA2 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
-		9F1251F028CBADF300719DA2 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,7 +153,6 @@
 		9F1251CD28CBA5C800719DA2 /* foxCrypto */ = {
 			isa = PBXGroup;
 			children = (
-				9F1251EB28CBAB8F00719DA2 /* fonts */,
 				9F1251E828CBA98800719DA2 /* utils */,
 				9F1251CF28CBA5EC00719DA2 /* common */,
 				9F1251CE28CBA5E200719DA2 /* screens */,
@@ -224,14 +222,6 @@
 				9F1251E928CBAA5200719DA2 /* Color.swift */,
 			);
 			path = utils;
-			sourceTree = "<group>";
-		};
-		9F1251EB28CBAB8F00719DA2 /* fonts */ = {
-			isa = PBXGroup;
-			children = (
-				9F1251F028CBADF300719DA2 /* Poppins-Regular.ttf */,
-			);
-			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
